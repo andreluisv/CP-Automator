@@ -1,0 +1,6 @@
+main
+algorithms/*
+!algorithms/.gitkeep
+backup/*
+!backup/.gitkeep
+javafiles/*.class
